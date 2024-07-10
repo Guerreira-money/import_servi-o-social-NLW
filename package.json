@@ -1,0 +1,14 @@
+{
+  "name": "simulado-do-servico-social",
+  "version": "3.0.0",
+  "description": "Banco de Questões",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Viviane da Costa Ferreira",
+  "dependencies": {
+    "electro": "^2.1.1",
+    "electron": "^31.2.0"
+  }
+}

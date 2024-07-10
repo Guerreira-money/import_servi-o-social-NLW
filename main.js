@@ -1,3 +1,5 @@
+
+
 const perguntas = [
     {
         pergunta: "Qual é a principal função do serviço social?",

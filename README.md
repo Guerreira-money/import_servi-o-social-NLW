@@ -1,4 +1,4 @@
-Tecnologias utilizadas neste projeto
+Tecnologias utilizadas neste projeto<br>
 -HTML;
 CSS;
 JAVASCRIPT;
